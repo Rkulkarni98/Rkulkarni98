@@ -1,4 +1,4 @@
-# Hi, I'm Revati Kulkarni 👋
+# Hi, I'm Revati Kulkarni 
 
 I'm an Embedded Firmware Engineer working on industrial IoT systems and connected devices.  
 My work mainly involves building firmware for microcontrollers, integrating industrial communication protocols, and developing reliable device-to-cloud communication pipelines.
